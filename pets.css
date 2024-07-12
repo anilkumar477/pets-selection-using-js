@@ -1,0 +1,9 @@
+.bg-container{
+    background-image: linear-gradient(to right,lightblue,rgb(223, 246, 155));
+    background-size:cover;
+}
+.heading{
+    font-size: 40px;
+    font-family: roboto;
+    font-weight: bold;
+}
